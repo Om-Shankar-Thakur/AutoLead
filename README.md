@@ -39,16 +39,16 @@
 ## Screenshots
 
 1. **Lead Listing Screen**  
-   ![Lead Listing Screen]([link_to_image](https://drive.google.com/file/d/1zfrFHReo1BxZHoK-re9voapcFWzz9st8/view?usp=drive_link))
+   ![Lead Listing Screen] [link_to_image](https://drive.google.com/file/d/1zfrFHReo1BxZHoK-re9voapcFWzz9st8/view?usp=drive_link))
 
 2. **Lead Details Screen**  
-   ![Lead Details Screen]([link_to_image](https://drive.google.com/file/d/1j5hHihac6GHRYbeGtXdGqaHspdSScCSn/view?usp=drive_link))
+   ![Lead Details Screen] [link_to_image](https://drive.google.com/file/d/1j5hHihac6GHRYbeGtXdGqaHspdSScCSn/view?usp=drive_link))
 
 3. **Lead Management Screen**  
-   ![Lead Management Screen]([link_to_image](https://drive.google.com/file/d/1MjDI9NYvoFBaOiFwhkqN7-c-8iYFSgc7/view?usp=drive_link))
+   ![Lead Management Screen] [link_to_image](https://drive.google.com/file/d/1MjDI9NYvoFBaOiFwhkqN7-c-8iYFSgc7/view?usp=drive_link))
 
 4. **Dashboard Screen**  
-   ![Dashboard Screen]([link_to_image](https://drive.google.com/file/d/1yc77GGO-N_TZaWzjA_Kpuv_IFQQJkcIK/view?usp=drive_link))
+   ![Dashboard Screen] [link_to_image](https://drive.google.com/file/d/1yc77GGO-N_TZaWzjA_Kpuv_IFQQJkcIK/view?usp=drive_link))
 
 
 ## User Flow
