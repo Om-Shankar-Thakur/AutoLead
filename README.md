@@ -5,11 +5,7 @@
 2. [Features](#features)
 3. [Screenshots](#screenshots)
 4. [User Flow](#user-flow)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+
 
 ## Overview
 
